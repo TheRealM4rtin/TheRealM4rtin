@@ -1,9 +1,10 @@
 <h1 align="center">Hi 🥳, my name is Martin Cousseau</h1>
 <h3 align="center">🇫🇷 I'm a french student at ESIEA, an engineering school. 🇫🇷</h3>
+<h3 align="center"> E/acc is the way 🫡 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therealm4rtin&label=Profile%20views&color=0e75b6&style=flat" alt="therealm4rtin" /> </p>
 
-- 🔭 I’m interested in **Artificial Intelligence**
+- 🔭 Working in **Artificial Intelligence**
 
 <h3 align="left">Learn more about me:</h3>
 <p align="left">
