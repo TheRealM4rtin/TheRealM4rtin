@@ -9,7 +9,6 @@
 <h3 align="left">Learn more about me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cousseaumartin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cousseaumartin" height="30" width="40" /></a>
-<a href="https://medium.com/@martin.css" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@martin.css" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
